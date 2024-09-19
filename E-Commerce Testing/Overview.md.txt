@@ -1,0 +1,5 @@
+I was contracted to conduct a comprehensive testing session for an e-commerce platform belonging to a small business based in Turkey.
+
+The owner aimed to enhance the functionality and user experience of their website. 
+
+The findings from this testing session are intended to serve as a detailed resource that the owner can utilize when hiring a developer or team to implement the necessary improvements.
